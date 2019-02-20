@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KTV_Player:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/KTV_Player_jar</output-path>
+    <root id="archive" name="KTV_Player.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="KTV_Player" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/commons-beanutils-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/sqlite-jdbc-3.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/fmj.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ToolPackage/jmf.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

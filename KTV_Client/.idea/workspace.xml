@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="KTV_Client:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d91e3bf-b3a2-4cd1-b5c9-a2b2a539ac9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/.idea/dictionaries/KuroCat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/.idea/libraries/sqlite_jdbc_3_8_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/JF180832-JDBC/JF180832-JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/LoginActionListener/LoginActionListener.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/LoginActionListener/LoginActionListener.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/homeWork_O 17th/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/homeWork_O 17th/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/homeWork_O 17th/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/homeWork_O 17th/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/homeWork_O 17th/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/homeWork_O 17th/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/17th/JDBC Lab/homeWork_O 17th/homeWork_O 17th.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/homeWork_DaoPurchasePanel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/ctrl/JCombox1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/ctrl/JComboxCtrlListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/ctrl/OrderActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/ctrl/PurchaseTabelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/dao/SalesDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/model/SalesMo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/model/SalesSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/view/JComboxFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/view/JComboxJpanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/view/OrderFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/view/OrderJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/21th/homeWork_DaoPurchasePanel/src/view/OrderJTabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/File.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/IOStream-23th.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/IOStream-23th.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/src/ctrl/IOMouseActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/23th/IOStream-23th/src/view/OrderFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream-24th/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream_HW_24th/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream_HW_24th/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream_HW_24th/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream_HW_24th/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream_HW_24th/IOStream_HW_24th.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream_HW_24th/IOWork.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream_HW_24th/src/ctrl/IOPerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/24th/IOStream_HW_24th/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/src/ctrl/LoginOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/src/ctrl/QQFrameListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/src/dao/sendMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/src/view/QQFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Client/src/view/QQJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/.idea/libraries/sqlite_jdbc_3_8_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/GoodsM.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/src/ctrl/LoginOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/src/dao/ClientLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/src/test/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Protocol_25th/src/test/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/src/dao/ClientLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/25th/Server/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/QQ.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/src/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/JF180832-Net/src/thread/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/GoodsM.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/QQClient.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/QQClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/bean/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/ctrl/OperatorListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/test/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/view/QQLoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/view/QQLoginJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/view/QQMainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/QQClient/src/view/QQMainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/QQ.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/Server.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/bean/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/bean/Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/dao/ChatDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/26th/Server/src/test/ServerRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/Test_JDBC_Net.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/ctrl/UserManagerListernr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/dao/ClassifyDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/dao/GoodsDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/dao/UserDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/model/ArraySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/model/ClassifyMo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/model/GoodsMo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/run/TestRun_HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/util/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/view/UserManagerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/view/UserManagerJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Net/src/view/UserManagerTabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/GoodsM.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/Test_JDBC_Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/bean/ArraySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/bean/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/bean/Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/dao/ChatDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/Test_JDBC_Server/src/test/ServerRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/ctrl/JCombox1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/ctrl/JComboxCtrlListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/ctrl/LoginActionMouseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/ctrl/OrderActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/ctrl/PurchaseTabelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/model/Classify_Mo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/model/Goods_Mo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/model/SalesMo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/model/SalesSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Client/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/GoodsM.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/src/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/src/message/FactorSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/29th/homeWork/Server/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/bean/Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/FileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/FriendIDRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/FriendResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/FriendsRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/GroupMsgSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/HischatRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/PackageFristRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/RegResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/message/SendMsgRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/net/RecvFileThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/net/SendFileThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/FileOnlineService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/FirstFileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/FriendsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/GroupChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/HisChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/RegisterIDService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/QQClient/src/service/RegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/FriendResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/GroupMsgResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/JSonObjectMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/RegResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/ResonseHISChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/ResponseFriendID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/message/SendMsgRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/ChatMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/FriendsSIDService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/FriendsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/FristFileReService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/GroupMsgService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/HisChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/30th/Server/src/service/RegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/src/bean/Stu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon - test2/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon-test/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon-test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon-test/src/bean/Stu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/31th/JSon-test/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQClient/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQClient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQClient/Task1030_QQClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQServer/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10/JDBC/Task1030_QQServer/Task1030_QQServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/KTV_Client_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KTV_Client.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KTV_Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolPackage/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolPackage/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolPackage/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolPackage/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolPackage/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolPackage/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bean/MusicBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bean/Roomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bean/TypeBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ctrl/LoginActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ctrl/PlayMusicActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ctrl/WindowListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/daoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/HistoryPlayMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/HotMusicMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/LoginJSonRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/MusicTableTranMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/NormalMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/PlayMusicListMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/ReConnectRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/RoomLogOutRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/RecvFileThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/HistoryDeleteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/HistoryPageNextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/HistoryPagePreviousService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/HistoryPageResetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/HistoryPlayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/HotMusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/HotPageCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/MusicTxtTranService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ReConnectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ReMusicTxtEndService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/SecondUpdataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ShowMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TopMusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TopRefreshNextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/LoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/LoginPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/PlayMusicJTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/PlayMusicListComboxPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/PlayMusicListFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/PlayMusicListPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/PlayMusicListSpellPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ProgressBarFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/artifacts/KTV_ClientServer_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/KTV_ClientServer.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/KTV_ClientServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/ToolPackage/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/ToolPackage/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/ToolPackage/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/ToolPackage/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/ToolPackage/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/ToolPackage/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/ToolPackage/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/bean/MusicBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/bean/Roomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/dao/ServiceDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/HistoryPlayMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/HotMusicResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/MusicTableTranMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/NormalMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/PlayMusicListMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/ReConnectMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/message/ShowMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/net/ListServer_RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/net/ListServer_Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/net/ReConnectPServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/net/ReConnectThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/net/SendFileThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/DELETEIDService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/HistoryNextPageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/HistoryPageResetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/HistoryPlayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/HistoryPreviousPageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/HotMusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/HotPageCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/LogOutService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/MusicTxtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/PlayMusicListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/ReConnectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/SecondUpdataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/TopANDNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/service/TopMusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/view/ServerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_ClientServer/src/view/ServerPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/.idea/artifacts/Manager_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/KTV_Manager.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/KTV_Manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/ToolsPackage/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/ToolsPackage/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/ToolsPackage/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/ToolsPackage/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/ToolsPackage/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/ToolsPackage/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/ToolsPackage/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/bean/ClassifyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/bean/FileBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/bean/MusicBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/ctrl/ManagerBtnListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/dao/FileDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/util/WavFileFliter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/view/KTV_ManagerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/view/KTV_ManagerPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Manager/src/view/PlayMusicManagerTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/.idea/artifacts/KTV_Player_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/.idea/libraries/fmj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/KTV_Player.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/KTV_Player.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/fmj.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/jmf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/ToolPackage/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/bean/FileBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/bean/RoomID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/ctrl/PlayerActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/ctrl/SyncMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/message/BindRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/message/ConnectMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/message/MusicBufRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/message/NextMusRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/message/ReConnectRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/message/RoomSelectRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/message/TopAndNextResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/music/MusicUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/net/MusicPlayThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/net/ReConnectSenderThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/net/RecvFileThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/ConnectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/FileSaveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/LogOutService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/NewMusicPlayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/PlayMusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/ReConnectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/RoomBindReService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/RoomSelectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/TheLastService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/TopAndNextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/service/TopMusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/util/MyFileFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/view/MusicPlayerJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/view/MusicPlayerJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_Player/src/view/ReConnectFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/artifacts/KTV_PlayerServer_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/KTV_PlayerServer.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/KTV_PlayerServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/ToolPackage/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/ToolPackage/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/ToolPackage/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/ToolPackage/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/ToolPackage/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/ToolPackage/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/ToolPackage/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/bean/FileBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/bean/MusicFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/bean/RoomID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/dao/FileDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/ConnectMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/LogOutMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/NewPlayMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/PlayMusicResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/ReConnectMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/RoomBindResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/RoomIDResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/TheLastMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/TopAndNextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/TopAndNextResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/message/TopNameChangeMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/net/ListPlayerServer_Recver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/net/MusicSpathThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/net/PlayMusicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/net/SendFileTread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/net/TempServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/net/TempServiceServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/service/BindRoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/service/MusicFileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/service/MusicPlayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/service/ReConnectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/service/RoomSelectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/service/TopAndNextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/util/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/util/MyFileFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/view/PlayerServerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTV_PlayerServer/src/view/PlayerServerJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/package/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/package/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/package/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/package/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/package/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/package/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/package/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/bean/Classify_Mo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/bean/Goods_Mo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/bean/RegisterUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/dao/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/dao/PurchaseDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/dao/SalesDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/OrderPageCountResponese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/OrderRefreshResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/PageCountResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/PurchaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/RefreshTableResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/RegResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/SearchResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/UpdateModelRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/message/UpdateModelResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/model/SalesMo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/model/SalesSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/OrderPageCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/OrderTabelRefreshService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/PageCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/PurchaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/RefreshTableService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/RegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/SearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/service/UpdateModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/Server/src/test/ServerRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/package/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/package/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/package/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/package/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/package/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/package/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/package/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/bean/Classify_Mo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/bean/Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/bean/RegisterUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/OrderFreshTableRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/OrderPageCountRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/PageCountRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/PurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/RefreshTabelRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/RegResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/SearchRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/SearchResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/UpdateModelRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/message/UpdateModelResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/OrderPageCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/OrderTableRefreshService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/PageCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/PurchaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/RefreshTableService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/RegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/SearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.1st/homeWork_DaoPurchasePanel/src/service/UpdateModelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/QQClient/src/bean/FileTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/QQClient/src/message/DownFileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/QQClient/src/message/KeepAliveRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/QQClient/src/service/KeepAliveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/Server/src/message/DownFileFristRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/Server/src/message/DownFileFristResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/Server/src/message/KeepAliveResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/Server/src/service/DownFileFristService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/Server/src/service/KeepAliveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/StorageServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/ToolsPackage/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/ToolsPackage/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/ToolsPackage/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/ToolsPackage/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/ToolsPackage/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/ToolsPackage/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.4th/StorageServer/src/test/ServerRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/ToolsPackage/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/ToolsPackage/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/ToolsPackage/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/ToolsPackage/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/ToolsPackage/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/ToolsPackage/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/message/FileImportRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/message/FileSaveRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/message/MusicBufRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/message/NextMusRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/message/PageCountRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/message/RefreshTableRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/net/RecvFileThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/service/FileSaveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/service/PageCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/IOStream-23th/src/service/RefreshTableService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/libraries/sqlite_jdbc_3_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/File.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/ToolsPackage/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/ToolsPackage/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/ToolsPackage/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/ToolsPackage/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/ToolsPackage/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/ToolsPackage/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/ToolsPackage/sqlite-jdbc-3.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/bean/FileBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/message/FileResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/message/PageCountResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/message/RefreshTableResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/net/RecvFileThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/net/RecvThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/net/SendFileTread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/service/Controllor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/service/FileSaveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/service/MusicFileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/service/MusicNextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/service/PageCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/service/RefreshTableService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/test/ServerRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/util/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/src/util/MyFileFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.5th/test/Server/wav/yesterday once more.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/MusicPlayerClient/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/MusicPlayerClient/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/MusicPlayerClient/.idea/libraries/fmj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/MusicPlayerClient/src/ctrl/IOSKeyBorardAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/MusicPlayerClient/src/music/MusicUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/MusicPlayerClient/src/net/MusicPlayThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/MusicPlayerClient/src/service/PlayMusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/Server/src/message/PlayMusicResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/Server/src/net/PlayMusicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nov.6th/Server/src/service/FileImportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9/ForEclipse/ExamForZY/First/jf180832_Exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9/ForEclipse/ExamForZY/First/jf180832_Exam/homeWork_O 17th.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9/ForEclipse/ExamForZY/First/jf180832_Exam/jf180832_Exam.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9/ForEclipse/ExamForZY/First/jf180832_Exam/src/ctrl/ButtonActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9/ForEclipse/ExamForZY/First/jf180832_Exam/src/view/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9/ForEclipse/ExamForZY/First/jf180832_Exam/src/view/TaxCalculatorOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/Back/jf180832-TankBattles/TankBattles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/Back/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/Back/temp/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-0914/jf180832-0914/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-0914/jf180832-0914/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-0914/jf180832-0914/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-0914/jf180832-0914/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/ctrl/ButtonActionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/ctrl/ButtonActionListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/ctrl/WindowListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/ctrl/WindowListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/test/run.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/test/run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/util/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/util/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/view/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/view/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/view/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/view/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/view/MainJLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/view/MainJLabel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/view/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9/jf180832-TankBattles/src/view/MainPanel.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="client" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="client" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="client" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="client" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="t_music: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-334512013">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="324" />
+          <entry key="sql" value="10" />
+          <entry key="sqlite_master" value="1" />
+          <entry key="sqlite_sequence" value="2" />
+          <entry key="t_music" value="19" />
+          <entry key="t_singer" value="2" />
+          <entry key="t_type" value="3" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="27" />
+          <entry key="JAVA" value="324" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Scratch" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="1" />
+          <entry key="dummy" value="16" />
+          <entry key="java" value="18901" />
+          <entry key="sql" value="341" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="18901" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Scratch" value="342" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/LoginFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/LoginPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/PlayMusicJTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/PlayMusicListComboxPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/PlayMusicListFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/PlayMusicListPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/PlayMusicListSpellPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ProgressBarFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dao/daoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2924">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>17</find>
+      <find>30</find>
+      <find>JOP</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>16</replace>
+      <replace>20</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/bean/LoginJSonRequest.java" />
+        <option value="$PROJECT_DIR$/src/net/SendFileThread.java" />
+        <option value="$PROJECT_DIR$/src/dao/DbUtil.java" />
+        <option value="$PROJECT_DIR$/src/message/HistoryPageChangeMessage.java" />
+        <option value="$PROJECT_DIR$/src/view/PlayHistoryPanel.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c4799d56-31d2-4703-a5b4-afb9e43e712e/console.sql" />
+        <option value="$PROJECT_DIR$/src/bean/MusicBean.java" />
+        <option value="$PROJECT_DIR$/src/bean/Roomer.java" />
+        <option value="$PROJECT_DIR$/src/bean/TypeBean.java" />
+        <option value="$PROJECT_DIR$/src/ctrl/LoginActionListener.java" />
+        <option value="$PROJECT_DIR$/src/ctrl/PlayMusicActionListener.java" />
+        <option value="$PROJECT_DIR$/src/ctrl/WindowListener.java" />
+        <option value="$PROJECT_DIR$/src/dao/daoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/message/HistoryPlayMessage.java" />
+        <option value="$PROJECT_DIR$/src/message/HotMusicMessage.java" />
+        <option value="$PROJECT_DIR$/src/message/LoginJSonRequest.java" />
+        <option value="$PROJECT_DIR$/src/message/Message.java" />
+        <option value="$PROJECT_DIR$/src/message/MusicTableTranMessage.java" />
+        <option value="$PROJECT_DIR$/src/message/NormalMessage.java" />
+        <option value="$PROJECT_DIR$/src/message/PlayMusicListMessage.java" />
+        <option value="$PROJECT_DIR$/src/message/ReConnectRequest.java" />
+        <option value="$PROJECT_DIR$/src/message/RoomLogOutRequest.java" />
+        <option value="$PROJECT_DIR$/src/net/Client.java" />
+        <option value="$PROJECT_DIR$/src/net/RecvFileThread.java" />
+        <option value="$PROJECT_DIR$/src/net/RecvThread.java" />
+        <option value="$PROJECT_DIR$/src/service/Controllor.java" />
+        <option value="$PROJECT_DIR$/src/service/HistoryDeleteService.java" />
+        <option value="$PROJECT_DIR$/src/service/HistoryPageNextService.java" />
+        <option value="$PROJECT_DIR$/src/service/HistoryPagePreviousService.java" />
+        <option value="$PROJECT_DIR$/src/service/HistoryPageResetService.java" />
+        <option value="$PROJECT_DIR$/src/service/HistoryPlayService.java" />
+        <option value="$PROJECT_DIR$/src/service/HotMusicService.java" />
+        <option value="$PROJECT_DIR$/src/service/HotPageCountService.java" />
+        <option value="$PROJECT_DIR$/src/service/IService.java" />
+        <option value="$PROJECT_DIR$/src/service/LoginService.java" />
+        <option value="$PROJECT_DIR$/src/service/MusicTxtTranService.java" />
+        <option value="$PROJECT_DIR$/src/service/ReConnectService.java" />
+        <option value="$PROJECT_DIR$/src/service/ReMusicTxtEndService.java" />
+        <option value="$PROJECT_DIR$/src/service/SecondUpdataService.java" />
+        <option value="$PROJECT_DIR$/src/service/ShowMessageService.java" />
+        <option value="$PROJECT_DIR$/src/service/TopMusicService.java" />
+        <option value="$PROJECT_DIR$/src/service/TopRefreshNextService.java" />
+        <option value="$PROJECT_DIR$/src/test/Run.java" />
+        <option value="$PROJECT_DIR$/src/view/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/LoginPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/PlayMusicJTable.java" />
+        <option value="$PROJECT_DIR$/src/view/PlayMusicListComboxPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/PlayMusicListFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/PlayMusicListPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/PlayMusicListSpellPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/ProgressBarFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="648" />
+    <option name="y" value="42" />
+    <option name="width" value="1280" />
+    <option name="height" value="580" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ctrl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KTV_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KTV_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542639795772" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.13671875" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="message" />
+      <recent name="bean" />
+      <recent name="dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\卓跃培训日常作业\2018\11\Nov 7th-KTV\KTV_Client\src\message" />
+      <recent name="H:\卓跃培训日常作业\2018\11\Nov 7th-KTV\KTV_Client\src\service" />
+      <recent name="H:\卓跃培训日常作业\2018\11\Nov 7th-KTV\KTV_Client\ToolPackage" />
+      <recent name="H:\卓跃培训日常作业\2018\11\Nov 7th-KTV\KTV_Client\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="KTV-Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test.Run" />
+      <module name="KTV_Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test.Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d91e3bf-b3a2-4cd1-b5c9-a2b2a539ac9a" name="Default Changelist" comment="" />
+      <created>1541561173690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541561173690</updated>
+      <workItem from="1541561179240" duration="580000" />
+      <workItem from="1541590583598" duration="11072000" />
+      <workItem from="1541638263306" duration="3447000" />
+      <workItem from="1541689131569" duration="5497000" />
+      <workItem from="1541724576389" duration="9398000" />
+      <workItem from="1541741622617" duration="3900000" />
+      <workItem from="1541826585861" duration="77955000" />
+      <workItem from="1542025136852" duration="41249000" />
+      <workItem from="1542156367131" duration="11293000" />
+      <workItem from="1542195951222" duration="2043000" />
+      <workItem from="1542203344630" duration="634000" />
+      <workItem from="1542243283297" duration="19824000" />
+      <workItem from="1542285842982" duration="15025000" />
+      <workItem from="1542418132560" duration="22303000" />
+      <workItem from="1542508666303" duration="13486000" />
+      <workItem from="1542537509252" duration="5886000" />
+      <workItem from="1542588979331" duration="17672000" />
+      <workItem from="1542617215653" duration="697000" />
+      <workItem from="1542634106141" duration="5568000" />
+      <workItem from="1542678821279" duration="5677000" />
+      <workItem from="1542686620317" duration="1335000" />
+      <workItem from="1542690805752" duration="4774000" />
+      <workItem from="1542700131675" duration="2281000" />
+      <workItem from="1542720016054" duration="1216000" />
+      <workItem from="1542761464913" duration="1759000" />
+      <workItem from="1542764287481" duration="4263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="288834000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="23" width="1550" height="848" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17426273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32867134" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932975" visible="true" weight="0.24195804" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932975" weight="0.32867134" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.27552447" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32867134" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.16353887" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/view/PlayHistoryPanel.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicTxt/JSonTxt.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c4799d56-31d2-4703-a5b4-afb9e43e712e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctrl/PlayMusicActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctrl/WindowListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/DbUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c4799d56-31d2-4703-a5b4-afb9e43e712e/schema/main/table/t_music">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean/MusicBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean/Roomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean/TypeBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctrl/LoginActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/HistoryPlayMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/HotMusicMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/LoginJSonRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/MusicTableTranMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/NormalMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/PlayMusicListMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/ReConnectRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/RoomLogOutRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/RecvFileThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/RecvThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/Controllor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/HistoryDeleteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/HistoryPageNextService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/HistoryPagePreviousService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/HistoryPageResetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/HistoryPlayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/HotMusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/HotPageCountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/IService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/MusicTxtTranService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ReConnectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ReMusicTxtEndService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/SecondUpdataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ShowMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/TopMusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/TopRefreshNextService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/LoginPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/PlayMusicJTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/PlayMusicListComboxPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/PlayMusicListFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/PlayMusicListPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/PlayMusicListSpellPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ProgressBarFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/daoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2924">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>KTV_Client:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>KTV_Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sqlite-jdbc-3.8.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

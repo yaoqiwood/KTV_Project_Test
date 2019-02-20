@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fmj" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ToolPackage/fmj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToolPackage/jmf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
